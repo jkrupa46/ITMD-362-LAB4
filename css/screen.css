@@ -202,8 +202,35 @@ label {
   display: block;
 }
 
-/* ===== LAYOUT STYLES ====== */
+body {
+margin: 40px;
+}
+/* grid view */
+.infield_view {
+display: grid;
+grid-template-columns: 100px 100px 100px;
+grid-gap: 10px;
+}
 
-/* ===== MODULAR STYLES ===== */
+.box {
+background-color: black;
+color: #fff;
+border-radius: 5px;
+padding: 20px;
+  
+}
 
-/* ===== STATE STYLES ======= */
+/* gray color input regions */
+.ip_field{
+color:#989898 ;
+background-color:#989898 ;
+border:none;
+}
+
+/* Mobile Scale*/
+.@-o-viewport {
+   width: 320px;
+   zoom: 1.0;
+}
+
+
