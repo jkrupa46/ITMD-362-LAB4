@@ -260,7 +260,7 @@ input[type="submit"]
 {
   font-family: 'Montserrat', sans-serif;
   font-size: 2em;
-  background-color: #FFFFFF;
+  background-color: #696969;
 }
 
 /* ===== MODULAR STYLES ===== */
@@ -276,5 +276,5 @@ form li
 
 body 
 {
-	background-color: #D3D3D3;
+  background-color: #D3D3D3;
 }
