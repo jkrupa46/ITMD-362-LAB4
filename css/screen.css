@@ -259,8 +259,8 @@ input[type="checkbox"]
 input[type="submit"] 
 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1em;
-  background-color: #696969;
+  font-size: 2em;
+  background-color: #FFFFFF;
 }
 
 /* ===== MODULAR STYLES ===== */
@@ -276,7 +276,5 @@ form li
 
 body 
 {
-  background-color: #D3D3D3;
+	background-color: #D3D3D3;
 }
-
-
